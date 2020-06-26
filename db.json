@@ -1,23 +1,31 @@
-
-      [  {
-          orderId: "#13785",
-          orderTitle: "Landline order with Broadband Plan",
-          date: "24 March 2019",
-          time: "3:01 PM",
-          status: "Approved",
-        },
-        {
-          orderId: "#14705",
-          orderTitle: "Broadband Plan Change",
-          date: "21 March 2019",
-          time: "1:49 PM",
-          status: "In-Approval",
-        },
-        {
-          orderId: "#18078",
-          orderTitle: "Broadband Data Rollover Order",
-          date: "11 March 2019",
-          time: "10:01 AM",
-          status: "Cancelled",
-        }]
-     
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
