@@ -1,8 +1,8 @@
 {
   "orderDetails": [
         {
-          orderId: "#13785",
-          orderTitle: "Landline order with Broadband Plan",
+          "orderId": "#13785",
+          "orderTitle": "Landline order with Broadband Plan",
           date: "24 March 2019",
           time: "3:01 PM",
           status: "Approved",
