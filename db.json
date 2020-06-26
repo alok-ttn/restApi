@@ -20,6 +20,6 @@
           date: "11 March 2019",
           time: "10:01 AM",
           status: "Cancelled",
-        },
-      ],
+        }
+      ]
 }
